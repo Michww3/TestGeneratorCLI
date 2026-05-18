@@ -4,6 +4,8 @@
 
 `testgen` eliminates repetitive boilerplate when testing hash-based constructors by generating deterministic and exhaustive test cases for all parameter combinations.
 
+Intended use - generating tests for [ctorgen](https://github.com/Michww3/ctorgen)
+
 ---
 
 ## 📚 Table of Contents
